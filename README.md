@@ -1,2 +1,1 @@
-Dedicated to creating Minecraft mods and other similar projects.
-More info coming soon, I think.
+I usually use this to host repos of Minecraft mods or other projects in the making =>
